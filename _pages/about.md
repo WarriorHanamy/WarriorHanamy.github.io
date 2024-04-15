@@ -12,6 +12,7 @@ I am a researcher with a focus on planning, estimation, and control of aerial ro
 I’m currently a researcher at the deparment of Cognitive Robotics (CoR) of Delft University of Technology. From 2022 to 2023, I have been a postdoctoral researcher at the Robotics and Mechatronics (RaM) group at the University of Twente, collaborating with Prof. Antonio Franchi. Prior to this, from 2020 to 2021, I worked as a postdoctoral researcher at the Robotics and Perception Group (RPG) at the University of Zurich under the guidance of Prof. Davide Scaramuzza.
 
 In December 2020, I earned my PhD in Aerospace Engineering from the Control and Simulation Group (C&S) at Delft University of Technology, supervised by Dr. Coen de Visser and Prof. Guido de Croon. My doctoral thesis has addressed the fault-tolerant control problem of aerial robots subject to significant dynamical uncertainties.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
